@@ -1,32 +1,25 @@
 Company RAG Knowledge Assistant
 
-A Retrieval-Augmented Generation (RAG) application that retrieves relevant information from company knowledge documents using semantic search.
+A simple Retrieval-Augmented Generation (RAG) project that retrieves relevant information from company documents using semantic search.
 
-Current Knowledge Base
+The current knowledge base contains information about:
+
 Infosys
 TCS
 Accenture
 Wipro
 Overview
 
-This project demonstrates how RAG can be used to retrieve relevant information from a collection of company documents.
+The project loads company documents, splits them into smaller chunks, converts the text into vector embeddings, stores the embeddings in ChromaDB, and retrieves relevant information based on a user's query.
 
-The system:
-
-Loads company documents
-Splits documents into smaller chunks
-Converts chunks into vector embeddings
-Stores embeddings in ChromaDB
-Converts user queries into embeddings
-Retrieves the most relevant document chunks
-Architecture
+Workflow
 Company Documents
         ↓
 Document Loading
         ↓
 Text Splitting
         ↓
-Hugging Face Embeddings
+Local Embeddings
         ↓
 ChromaDB
         ↓
@@ -34,84 +27,59 @@ User Query
         ↓
 Semantic Retrieval
         ↓
-Relevant Context
+Relevant Documents
 Technologies Used
-Technology	Purpose
-Python	Application development
-LangChain	RAG pipeline
-Hugging Face	Local text embeddings
-Sentence Transformers	Embedding model
-ChromaDB	Vector database
-Python-dotenv	Environment configuration
-Git & GitHub	Version control
+Python
+LangChain
+Hugging Face
+Sentence Transformers
+ChromaDB
+Python-dotenv
+Git & GitHub
 Embedding Model
 sentence-transformers/all-MiniLM-L6-v2
 
-The embedding model runs locally, so the document embedding stage does not require OpenAI API credits.
-Project Structure
-RAG/
-│
-├── docs/
-│   ├── infosys.txt
-│   ├── tcs.txt
-│   ├── accenture.txt
-│   └── wipro.txt
-│
-├── db/
-│   └── chroma_db/
-│
-├── ingestion_pipeline.py
-├── retrieval_pipeline.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-Setup
-1. Clone the Repository
+The embedding model runs locally, so OpenAI API credits are not required for document embedding.
+
+Installation
+1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/company-rag-chatbot.git
 cd company-rag-chatbot
-2. Create a Virtual Environment
-
-For Windows:
-
+2. Create a virtual environment
 python -m venv venv
 
-Activate the virtual environment:
+Activate it on Windows:
 
 .\venv\Scripts\Activate.ps1
-3. Install Dependencies
+3. Install dependencies
 pip install -r requirements.txt
+Usage
 
-Run the Project
-Step 1: Create the Vector Database
+Place the company .txt files in the docs folder.
 
-Place the company .txt files inside the docs folder.
-
-Run:
+Run the ingestion pipeline:
 
 python ingestion_pipeline.py
 
-This will:
+This loads the documents, creates chunks, generates embeddings, and stores them in ChromaDB.
 
-Load the company documents
-Split the documents into chunks
-Generate local embeddings
-Store the embeddings in ChromaDB
-Step 2: Run Retrieval
+Then run the retrieval pipeline:
+
 python retrieval_pipeline.py
 
-You can then enter questions related to the information stored in the company knowledge base.
+You can ask questions related to the information contained in the company documents.
 
-Example Queries
+Example Questions
 What does Infosys do?
 When was TCS founded?
 How many employees does Wipro have?
 What technology areas does Accenture work in?
 What skills are useful for Infosys technology roles?
 Compare TCS and Wipro.
-Key Features
-Document-based information retrieval
-Semantic document search
+Current Features
+Company document loading
+Text chunking
 Local embedding generation
-Persistent ChromaDB vector store
+ChromaDB vector storage
+Semantic retrieval
 Multiple company knowledge sources
-Easy to extend with additional companies
