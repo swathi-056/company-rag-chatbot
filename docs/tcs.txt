@@ -1,0 +1,159 @@
+COMPANY KNOWLEDGE BASE: TATA CONSULTANCY SERVICES (TCS)
+Last verified: August 2026
+Purpose: RAG knowledge base for company/career questions.
+
+1. COMPANY OVERVIEW
+Tata Consultancy Services (TCS) is a technology services, consulting and business solutions organization and part of the Tata Group. TCS was founded in 1968 and works with organizations worldwide on technology and business transformation.
+
+2. CURRENT COMPANY SNAPSHOT
+- Founded: 1968
+- Part of: Tata Group
+- Global presence: 55+ countries / TCS corporate pages describe a workforce across more than 50 countries; the current careers page reports nearly 600,000 associates across 55 countries as of June 30, 2026.
+- Service delivery: The current careers page reports more than 200 service delivery centres.
+- TCS has an aspiration to become the world's largest AI-led technology services company.
+- TCS emphasizes long-term relationships, innovation, engineering excellence and continuous learning.
+
+3. MAJOR SERVICES
+TCS services include:
+- Artificial intelligence
+- Data and analytics
+- AI-led data centres
+- Cloud
+- Cognitive business operations
+- Consulting
+- Cybersecurity
+- Enterprise solutions
+- Industrial autonomy and engineering
+- Network solutions and services
+- Sustainability services
+- TCS Interactive
+
+4. PRODUCTS AND PLATFORMS
+TCS has products and platforms including:
+- TCS ERP on Cloud
+- TCS OmniStore
+- TCS ADD
+- TCS BaNCS
+- TCS BFSI Platforms
+- TCS Chroma
+- TCS Customer Intelligence & Insights
+- TCS HOBS
+- ignio
+- TCS Intelligent Urban Exchange
+- TCS Optumera
+- TCS Tap
+- TCS MasterCraft
+- Jile
+- TCS iON
+- TCS TwinX
+- TCS DigiBOLT
+- TCS AI WisdomNext
+- Quartz
+
+5. INDUSTRIES
+TCS works across areas including:
+- Banking and financial services
+- Insurance
+- Retail and consumer packaged goods
+- Communications and media
+- Manufacturing
+- Life sciences and healthcare
+- Energy and utilities
+- Travel and hospitality
+- Technology and services
+- Public services
+- High technology
+
+6. CAREERS
+TCS provides opportunities for:
+- Entry-level candidates
+- Interns
+- Experienced/lateral professionals
+- Research and innovation
+- Strategic leadership programs
+- TCS Xplore and other learning/development initiatives
+
+TCS emphasizes continuous learning, collaboration, growth, innovation and future-ready skills.
+
+7. COMMON ENTRY-LEVEL ROLE AREAS
+Depending on the current hiring program, students may find opportunities in:
+- Software development
+- Application support
+- Testing and quality engineering
+- Data and analytics
+- Cloud
+- Cybersecurity
+- Infrastructure
+- Enterprise applications
+- AI and machine learning
+- Business/technology services
+Actual roles and titles depend on the recruitment notification.
+
+8. ELIGIBILITY AND RECRUITMENT
+TCS recruitment criteria are not permanently fixed. Eligibility can depend on:
+- Graduation year
+- Degree/branch
+- Academic performance
+- Backlogs
+- Gap rules
+- Experience
+- Skills
+- Specific hiring program
+
+Selection stages vary by program. Some campus or graduate hiring programs may include an online assessment followed by interviews, but candidates must verify the current notification.
+
+9. TCS NQT / ASSESSMENTS
+TCS conducts different hiring and assessment programs over time. Do not assume that every TCS recruitment uses exactly the same test pattern. When preparing for an active hiring drive, use the current official notification and assessment instructions.
+
+10. SKILLS FOR STUDENTS
+Useful preparation areas:
+- Java/Python/C++ or another relevant programming language
+- OOP
+- DSA
+- SQL and DBMS
+- Computer networks
+- Operating systems
+- Software engineering
+- Aptitude and logical reasoning where required
+- Coding practice
+- Communication
+- Project and resume discussion
+
+11. SALARY
+TCS does not have one universal fresher salary for every role. Compensation varies by hiring program, role, location, skills and offer. Never treat an old social-media salary figure as a guaranteed current package.
+
+12. COMPANY CULTURE
+TCS emphasizes:
+- Long-term value
+- Integrity
+- Learning
+- Collaboration
+- Diversity and inclusion
+- Innovation
+- Employee well-being
+- Global opportunities
+
+13. RAG FACTS / EXAMPLE QUESTIONS
+Q: When was TCS founded?
+A: TCS was founded in 1968.
+
+Q: What is TCS?
+A: TCS is a technology services, consulting and business solutions organization within the Tata Group.
+
+Q: What are major TCS technology areas?
+A: AI, data and analytics, cloud, cybersecurity, enterprise solutions, consulting, engineering and other technology services.
+
+Q: Does TCS hire entry-level candidates?
+A: Yes. The official careers site provides entry-level and internship opportunities.
+
+Q: Is there one fixed TCS interview pattern?
+A: No. Hiring patterns vary by program and recruitment cycle, so the current official notification should be checked.
+
+14. OFFICIAL SOURCES
+TCS company overview: https://www.tcs.com/who-we-are
+TCS careers: https://www.tcs.com/careers
+TCS India careers: https://www.tcs.com/careers/india
+TCS services: https://www.tcs.com/what-we-do/services
+
+IMPORTANT RAG NOTE
+Use current TCS job notifications for exact eligibility, test pattern, dates, salary and selection stages.

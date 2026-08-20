@@ -1,0 +1,145 @@
+COMPANY KNOWLEDGE BASE: ACCENTURE
+Last verified: August 2026
+Purpose: RAG knowledge base for RAG company/career questions.
+
+1. COMPANY OVERVIEW
+Accenture is a global professional services company combining technology, consulting and operations capabilities. In India, Accenture describes its work around creating 360° value for clients, people, shareholders, partners and communities.
+
+2. CURRENT GLOBAL SNAPSHOT
+According to Accenture's current India careers information:
+- 799,000 people worldwide
+- 200+ cities with Accenture offices
+- Presence in 52 countries through those offices
+- 9,000+ clients served across more than 120 countries
+
+These figures can change over time.
+
+3. MAJOR CAREER AND SERVICE AREAS
+Accenture's careers site highlights opportunities in:
+- Consulting
+- Technology
+- Operations
+- Digital engineering and manufacturing
+- AI and analytics
+- Cybersecurity
+- Software development
+- Design
+- SAP and enterprise technology
+- Data and technology transformation
+
+4. TECHNOLOGY AREAS
+Relevant Accenture technology areas include:
+- Artificial intelligence
+- Generative AI
+- Data and analytics
+- Cloud
+- Cybersecurity
+- Software engineering
+- Digital engineering
+- Enterprise applications
+- Automation
+- Emerging technologies
+- Digital transformation
+
+5. INDUSTRY WORK
+Accenture works with clients across many industries. Depending on geography and business unit, work can involve:
+- Banking and financial services
+- Insurance
+- Healthcare
+- Public service
+- Communications and media
+- Retail
+- Consumer goods
+- Automotive
+- Industrial and manufacturing
+- Energy
+- Technology
+- Travel
+Industry availability varies by role and location.
+
+6. CAREERS
+Accenture careers include:
+- Students
+- Early-career professionals
+- Experienced professionals
+- Executive leaders
+- Career Rebooters
+
+The careers site emphasizes learning, growth, meaningful client work, inclusion and opportunities to work with emerging technology.
+
+7. COMMON ENTRY-LEVEL ROLE AREAS
+Depending on active hiring, candidates may find roles such as:
+- Application development
+- Software engineering
+- Technology analyst
+- Data/analytics roles
+- Cloud roles
+- Cybersecurity
+- Testing and quality engineering
+- Business/technology consulting
+- Digital engineering
+- Support and operations
+Actual titles, eligibility and location depend on the current job posting.
+
+8. ELIGIBILITY AND RECRUITMENT
+There is no single permanent Accenture recruitment pattern for all jobs. Eligibility and selection can differ by:
+- Job role
+- Geography
+- Degree
+- Graduation year
+- Academic requirements
+- Skills
+- Experience
+- Hiring program
+
+Candidates should follow the exact current job description and recruitment communication.
+
+9. COMMON PREPARATION AREAS FOR TECHNOLOGY ROLES
+- Programming
+- OOP
+- DSA
+- SQL/DBMS
+- Computer science fundamentals
+- Problem solving
+- Aptitude where required
+- Communication
+- Coding
+- Project explanation
+- Role-specific technologies
+
+10. SALARY
+Accenture compensation varies by role, location, level, skills, experience and hiring program. There is no single guaranteed fresher package for all Accenture jobs. Use the current official offer/job posting for exact compensation.
+
+11. COMPANY VALUES / CULTURE
+Accenture emphasizes:
+- 360° value
+- Responsible business
+- Ethical conduct
+- Innovation
+- Inclusion
+- Learning and development
+- Collaboration
+- Technology-led transformation
+
+12. RAG FACTS / EXAMPLE QUESTIONS
+Q: What does Accenture do?
+A: Accenture provides professional services spanning consulting, technology and operations, helping clients transform their businesses.
+
+Q: What technology areas are important at Accenture?
+A: AI, analytics, cloud, cybersecurity, software engineering, digital engineering and enterprise technologies are major areas.
+
+Q: Does Accenture hire students?
+A: Yes. Its careers site has dedicated student and early-career opportunities.
+
+Q: Is Accenture only a software company?
+A: No. Its business includes consulting, technology and operations as well as digital engineering and other professional services.
+
+Q: Is there one fixed Accenture recruitment process?
+A: No. The process depends on the job and hiring program.
+
+13. OFFICIAL SOURCES
+Accenture careers: https://www.accenture.com/in-en/careers
+Accenture in India/company: https://www.accenture.com/in-en/about/company-index
+
+IMPORTANT RAG NOTE
+For current vacancies, eligibility, assessments, interview rounds, locations and compensation, always use the latest official Accenture job posting.

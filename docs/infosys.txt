@@ -1,0 +1,124 @@
+COMPANY KNOWLEDGE BASE: INFOSYS
+Last verified: August 2026
+Purpose: RAG knowledge base for company/career questions.
+
+1. COMPANY OVERVIEW
+Infosys Limited is a global consulting and IT services company founded in 1981. Infosys describes itself as a global leader in next-generation digital services and consulting. Its purpose is to amplify human potential and create the next opportunity for people, businesses and communities.
+
+2. CURRENT COMPANY SNAPSHOT
+- Founded: 1981
+- Global presence: 59 countries
+- Employees: 328,000+ according to the current Infosys corporate overview
+- Latest company overview reports more than 40 years of service.
+- Infosys is listed on the NYSE.
+- Infosys has evolved from an Indian software-services company into a global digital transformation, consulting, cloud and AI services organization.
+
+3. MAJOR SERVICES AND TECHNOLOGY AREAS
+Infosys works across:
+- Artificial intelligence and applied AI
+- Generative AI
+- Data and analytics
+- Cloud and Infosys Cobalt
+- Digital transformation
+- Application modernization
+- Enterprise agile DevOps
+- API economy and microservices
+- Cybersecurity
+- Quality engineering
+- Engineering services
+- Internet of Things (IoT)
+- Blockchain
+- SAP
+- Oracle
+- Salesforce
+- Microsoft business and cloud solutions
+- Digital process automation
+- Digital supply chain
+
+4. INDUSTRIES
+Infosys serves industries including:
+- Financial services
+- Healthcare and life sciences
+- Insurance
+- Retail
+- Manufacturing
+- High technology
+- Communications and media
+- Travel and hospitality
+- Energy and utilities
+- Public sector
+- Logistics and distribution
+- Mining
+- Semiconductor
+- Professional services
+
+5. CAREERS
+Infosys provides opportunities for:
+- Graduates
+- Experienced professionals
+- Students and interns
+- Location-specific opportunities
+- AI-related careers
+
+Official careers information emphasizes AI-first, digital-first and cloud-first work, continuous learning, innovation, wellness, balance and career opportunities.
+
+6. COMMON ENTRY-LEVEL ROLE AREAS
+Actual openings vary by hiring cycle and location. Typical technology role areas can include:
+- Software development
+- Application development
+- Testing and quality engineering
+- Data and analytics
+- Cloud and DevOps
+- Cybersecurity
+- AI and machine learning
+- Infrastructure and support
+Do not assume that every role is open in every recruitment cycle.
+
+7. ELIGIBILITY AND RECRUITMENT
+Eligibility, academic requirements, graduation year, percentage/CGPA requirements, backlogs, branch restrictions and experience requirements vary by the specific job notification.
+Recruitment stages also vary by role and hiring program. A candidate should always check the current official job description or campus notice rather than relying on an old fixed pattern.
+
+8. SKILLS FOR STUDENTS
+Useful preparation areas for technology roles:
+- One programming language such as Java, Python or C++
+- Object-oriented programming
+- Data structures and algorithms
+- SQL and database fundamentals
+- Computer networks
+- Operating systems
+- Software engineering fundamentals
+- Web development for relevant roles
+- Cloud/DevOps basics for relevant roles
+- Communication and problem solving
+- Project explanation and resume-based questions
+
+9. SALARY
+There is no single universal Infosys fresher salary. Compensation depends on the job title, hiring program, location, candidate profile and offer terms. Do not store or present an old salary figure as a current guaranteed package. Use the current official job/offer information for a specific opening.
+
+10. COMPANY CULTURE AND PURPOSE
+Infosys highlights ethical conduct, continuous learning, innovation, inclusion, employee wellness and creating opportunities for people and communities. Infosys Foundation supports social and community initiatives.
+
+11. RAG FACTS / EXAMPLE QUESTIONS
+Q: When was Infosys established?
+A: Infosys was established in 1981.
+
+Q: What does Infosys do?
+A: It provides consulting, IT services and digital transformation solutions, including AI, cloud, data, cybersecurity and enterprise technologies.
+
+Q: How many countries does Infosys operate in?
+A: The current corporate overview says 59 countries.
+
+Q: Does Infosys hire fresh graduates?
+A: Yes. Its careers site has a Graduates category and also lists student/intern opportunities.
+
+Q: What should a fresher study for Infosys technology roles?
+A: Programming, OOP, DSA, SQL/DBMS, CS fundamentals, problem solving, communication and role-specific technologies are useful preparation areas.
+
+12. OFFICIAL SOURCES
+Infosys overview: https://www.infosys.com/about/overview.html
+Infosys careers: https://www.infosys.com/careers.html
+Infosys services: https://www.infosys.com/services.html
+Infosys history: https://www.infosys.com/about/history.html
+
+IMPORTANT RAG NOTE
+Company information can change. For current vacancies, eligibility, recruitment dates, salary and exact selection stages, prefer the latest official Infosys careers/job notification.

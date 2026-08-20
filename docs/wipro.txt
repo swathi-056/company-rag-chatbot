@@ -1,0 +1,123 @@
+COMPANY KNOWLEDGE BASE: WIPRO
+Last verified: August 2026
+Purpose: RAG knowledge base for company/career questions.
+
+1. COMPANY OVERVIEW
+Wipro Limited is a global AI-powered technology services and consulting company. Wipro provides IT transformation, consulting and business process services and helps clients address digital transformation needs.
+
+2. CURRENT COMPANY SNAPSHOT
+According to Wipro's current corporate overview:
+- Annual revenue: $10.48 billion for the financial year ended March 2026
+- Employees: 240,000+
+- Countries: 65
+- More than 146 nationalities represented
+- 80 years of progress and purpose
+- More than 25 years listed on the NYSE
+
+3. HISTORY
+Wipro was incorporated on December 29, 1945, originally as Western India Vegetable Products Limited. It began as a vegetable-oil manufacturer in Amalner, Maharashtra, and later expanded into soaps, consumer care and eventually information technology and services.
+
+4. MAJOR TECHNOLOGY AND SERVICE AREAS
+Wipro works with:
+- Artificial intelligence
+- Cognitive computing
+- Hyper-automation
+- Robotics
+- Cloud
+- Analytics
+- Application services
+- IT infrastructure
+- Digital transformation
+- Consulting
+- Business process services
+- Cybersecurity
+- Engineering and technology services
+
+5. CAREERS
+Wipro's careers platform provides opportunities for:
+- Early careers
+- Experienced professionals
+- Technology roles
+- Global project work
+- Learning and development
+
+Wipro emphasizes continuous learning, innovation, collaboration, inclusion and a merit-driven culture.
+
+6. COMMON ENTRY-LEVEL ROLE AREAS
+Depending on current hiring:
+- Software development
+- Testing
+- Application support
+- Data and analytics
+- Cloud
+- Infrastructure
+- Cybersecurity
+- Automation
+- Digital engineering
+- Business process/technology services
+
+Actual role names and openings change by hiring cycle.
+
+7. ELIGIBILITY AND RECRUITMENT
+Wipro hiring criteria vary by job and recruitment program. Candidates may need to meet specific:
+- Degree requirements
+- Branch requirements
+- Graduation-year requirements
+- Academic requirements
+- Backlog rules
+- Skill requirements
+- Experience requirements
+
+Selection stages can vary. A particular campus drive or off-campus drive may use an online assessment, coding/technical evaluation, communication or interview stages, but the exact process must be checked in the current official notification.
+
+8. SKILLS FOR STUDENTS
+Useful preparation:
+- Java/Python/C++ or another relevant language
+- OOP
+- DSA
+- SQL/DBMS
+- Computer networks
+- Operating systems
+- Software engineering
+- Aptitude/reasoning when required
+- Coding
+- Communication
+- Project explanation
+- Cloud/automation basics for relevant roles
+
+9. SALARY
+Wipro does not have one universal fresher salary across all roles and programs. Compensation varies by role, hiring program, location, skills and offer. Current official recruitment documents should be used for exact salary information.
+
+10. COMPANY VALUES
+Wipro's Spirit of Wipro emphasizes:
+- Passion for clients' success
+- Respect for every person
+- Being global and responsible
+- Unyielding integrity
+
+Wipro also highlights habits such as being respectful, responsive, communicating, demonstrating stewardship and building trust.
+
+11. RAG FACTS / EXAMPLE QUESTIONS
+Q: When was Wipro incorporated?
+A: Wipro was incorporated on December 29, 1945.
+
+Q: What was Wipro originally called?
+A: Western India Vegetable Products Limited.
+
+Q: What does Wipro do today?
+A: It provides AI-powered technology services, consulting, IT transformation and business process services.
+
+Q: What technologies does Wipro work with?
+A: AI, cloud, analytics, cognitive computing, hyper-automation, robotics and other digital technologies.
+
+Q: Does Wipro hire early-career candidates?
+A: Yes. Wipro's careers site has an Early Careers section.
+
+12. OFFICIAL SOURCES
+Wipro company overview: https://www.wipro.com/about-us/
+Wipro India overview: https://www.wipro.com/en-IN/overview/
+Wipro careers: https://careers.wipro.com/
+Wipro investor FAQs/history: https://www.wipro.com/investors/faqs/
+
+IMPORTANT RAG NOTE
+Company facts, vacancies, eligibility, hiring patterns and compensation can change. Use the latest official Wipro job notification for current recruitment details.
