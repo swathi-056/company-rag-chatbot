@@ -1,37 +1,56 @@
 Company RAG Knowledge Assistant
 
-A Retrieval-Augmented Generation (RAG) project that allows users to retrieve information from company knowledge documents using semantic search.
+A Retrieval-Augmented Generation (RAG) application that retrieves relevant information from company knowledge documents using semantic search.
 
-Currently, the knowledge base contains information about:
+The current knowledge base contains information about:
 
 Infosys
 TCS
 Accenture
 Wipro
+Overview
 
-The project uses local Hugging Face embeddings and ChromaDB, so the document embedding process does not require OpenAI API credits.
+This project demonstrates how RAG can be used to retrieve relevant information from a collection of documents.
 
-🚀 Project Architecture
+The system:
+
+Loads company documents.
+Splits documents into smaller chunks.
+Converts chunks into vector embeddings.
+Stores embeddings in ChromaDB.
+Converts a user's query into an embedding.
+Retrieves the most relevant document chunks.
+Architecture
 Company Documents
        ↓
-Document Loader
+Document Loading
        ↓
-Text Chunking
+Text Splitting
        ↓
 Hugging Face Embeddings
        ↓
-ChromaDB Vector Store
+ChromaDB
        ↓
 User Query
        ↓
 Semantic Retrieval
        ↓
 Relevant Context
-       ↓
-LLM
-       ↓
-Final Answer
-📁 Project Structure
+Technologies
+Technology	Purpose
+Python	Application development
+LangChain	RAG pipeline
+Hugging Face	Local text embeddings
+Sentence Transformers	Embedding model
+ChromaDB	Vector database
+Python-dotenv	Environment configuration
+Git & GitHub	Version control
+Embedding Model
+sentence-transformers/all-MiniLM-L6-v2
+
+The embedding model runs locally, so the document embedding stage does not require OpenAI API credits.
+
+Project Structure
 RAG/
 │
 ├── docs/
@@ -43,77 +62,12 @@ RAG/
 ├── db/
 │   └── chroma_db/
 │
-├── venv/
-│
 ├── ingestion_pipeline.py
 ├── retrieval_pipeline.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-🛠️ Technologies Used
-Python
-LangChain
-LangChain Community
-LangChain HuggingFace
-Hugging Face Sentence Transformers
-ChromaDB
-Python-dotenv
-Git & GitHub
-📄 Document Ingestion Pipeline
-
-The ingestion pipeline performs three major tasks:
-
-1. Document Loading
-
-The system loads .txt files from the docs directory.
-
-2. Text Splitting
-
-Large documents are divided into smaller chunks so that they can be efficiently processed and searched.
-
-3. Embeddings and Vector Storage
-
-The project uses:
-
-sentence-transformers/all-MiniLM-L6-v2
-
-to convert text chunks into numerical embeddings.
-
-These embeddings are stored in ChromaDB for semantic search.
-
-🔍 Retrieval Pipeline
-
-When a user enters a question:
-
-User Question
-      ↓
-Create Query Embedding
-      ↓
-Search ChromaDB
-      ↓
-Retrieve Relevant Documents
-      ↓
-Return Context
-
-For example:
-
-Question:
-What does Infosys do?
-
-The system searches the vector database and retrieves the most relevant Infosys content.
-
-💡 Example Questions
-
-You can ask questions such as:
-
-What does Infosys do?
-When was TCS founded?
-How many employees does Wipro have?
-What technology areas does Accenture work in?
-Which companies hire fresh graduates?
-What skills are useful for Infosys technology roles?
-Compare the services offered by TCS and Wipro.
-⚙️ Installation
+Setup
 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/company-rag-chatbot.git
 cd company-rag-chatbot
@@ -128,22 +82,45 @@ Activate it:
 .\venv\Scripts\Activate.ps1
 3. Install dependencies
 pip install -r requirements.txt
-▶️ Run the Ingestion Pipeline
+Run the Project
+Create the Vector Database
 
-Make sure the company .txt files are inside:
-
-docs/
-
-Then run:
+Place the company .txt files inside the docs folder and run:
 
 python ingestion_pipeline.py
 
-This creates the ChromaDB vector store.
+This loads the documents, creates chunks, generates embeddings and stores them in ChromaDB.
 
-▶️ Run the Retrieval Pipeline
-
-After ingestion is complete:
-
+Run Retrieval
 python retrieval_pipeline.py
 
-The system can then retrieve relevant information from the company knowledge base
+You can then enter questions related to the information stored in the company documents.
+
+Example Queries
+What does Infosys do?
+
+When was TCS founded?
+
+How many employees does Wipro have?
+
+What technology areas does Accenture work in?
+
+What skills are useful for Infosys technology roles?
+
+Compare TCS and Wipro.
+Key Features
+Document-based question answering foundation
+Semantic document retrieval
+Local embedding generation
+Persistent ChromaDB vector store
+Multiple company knowledge sources
+Easy to extend with additional companies
+Future Enhancements
+Integrate an LLM for final answer generation
+Build a web-based chatbot interface
+Support PDF and DOCX documents
+Allow users to upload their own documents
+Add source citations
+Add conversation history
+Add company comparison functionality
+Add retrieval evaluation
